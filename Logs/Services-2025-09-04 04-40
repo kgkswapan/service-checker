@@ -1,0 +1,3 @@
+Service: edgeupdate is currently Stopped, should be Running
+Setting edgeupdate to Running
+Action failed! Service edgeupdate is still Stopped
